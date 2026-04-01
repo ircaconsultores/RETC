@@ -1,0 +1,4 @@
+cas,cantidad_anual,unidad_codigo,factor_kg_por_unidad,nombre_insumo,nombre_compuesto,cliente,observaciones
+74-98-6 ,28.8,KG,1,Gas Licuado de Petróleo,Propano ,DEMOSTRACIÓN,
+106-97-8 ,9.6,KG,1,Gas Licuado de Petróleo,N-butano ,DEMOSTRACIÓN,
+75-28-5,9.6,KG,1,Gas Licuado de Petróleo,Isobutano,DEMOSTRACIÓN,
